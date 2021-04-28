@@ -25,5 +25,6 @@
   Layering the various COUNTIFS functions proved to be the most tedious challenge of the entire project, however, making sure the appropriate punctuation is in the right place of the formula solved that issue. The commas, quotation marks, and parenthesis can be difficult to remember especially for people who do not frequent the COUNTIFS function but making sure they are in the right places guarantees the success of the function. 
   
   
+## Results 
 
 
