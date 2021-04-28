@@ -33,6 +33,11 @@ From the pivot table and the corresponding data chart, one can see that the majo
 
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/82983000/116438244-454a9b00-a81c-11eb-9daa-3618132ce0c3.png)
 
+### Results of Outcomes based on Goals 
+
+This dataset which only measures the percentage success and failure of plays makes it obvious that smaller productions with a goal of less that $5000 have a higher chance to succeed with a notable outlier in the 9 plays between the $35,000 to $45,000 mark being almost just as successful. The data set also only measures plays and not musicals, it is also interesting to note that while canceled plays are included there are no seem to be none that are canceled as opposed to musicals which are canceled more frequently. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82983000/116439363-75df0480-a81d-11eb-9b38-4f456e18f5ea.png)
 
 
 
