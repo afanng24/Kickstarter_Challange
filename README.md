@@ -16,4 +16,6 @@
   
 ###  Analysis of Outcomes Based on Goals
 
+  Outcomes Based on Goals marks the percentage success, failure, and cancelation of plays over the dataset based on the monetary goals of individual play productions. The difference between the two datasets is that this one specifically tracks plays whereas the other includes musicals and other theatre productions. This analysis also only marks the percentage success and failure and not over a period of time like Theatre Outcomes Based on Launch Date. The simplicity of using the COUNTIFS function allowed the data to be organized rather easily and filtered across every column without the use of a piviot table. 
   
+![goals](https://user-images.githubusercontent.com/82983000/116436234-319e3500-a81a-11eb-96b7-260f2212137d.png)
