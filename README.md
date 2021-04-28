@@ -35,7 +35,8 @@ From the pivot table and the corresponding data chart, one can see that the majo
 
 ### Results of Outcomes based on Goals 
 
-This dataset which only measures the percentage success and failure of plays makes it obvious that smaller productions with a goal of less that $5000 have a higher chance to succeed with a notable outlier in the 9 plays between the $35,000 to $45,000 mark being almost just as successful. The data set also only measures plays and not musicals, it is also interesting to note that while canceled plays are included there are no seem to be none that are canceled as opposed to musicals which are canceled more frequently. 
+This dataset which only measures the percentage success and failure of plays makes it obvious that smaller productions with a goal of less that $5000 have a higher chance to succeed with a notable outlier in the 9 plays between the $35,000 to $45,000 mark being almost just as successful. The data set also only measures plays and not musicals, it is also interesting to note that while canceled plays are included there are no seem to be none that are canceled as opposed to musicals which are canceled more frequently. It is also important to note that a great majority of plays are under the $15,000 goal range so most are actually successful. An additional table or graph that shows the total number of successful plays over failed plays would be crucial to understanding the bigger picture. 
+
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/82983000/116439363-75df0480-a81d-11eb-9b38-4f456e18f5ea.png)
 
