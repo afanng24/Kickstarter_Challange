@@ -12,4 +12,6 @@
 
 ### Challanges 
   
-  The one challange that came up afterwards manifested in the fact that the theatre category involved both plays and musicals, whereas the data set required only plays and didnt find a disction between the two in the data category. This was adressed by a simple fomula using the COUNTIFS function while slecting the column of subcategories and filtering out the word -plays- 
+  The one challenge that came up afterwards manifested in the fact that the theatre category involved both plays and musicals, whereas the data set required only plays and did not find a distinction between the two in the data category. This was addressed by utilizing a simple formula using the COUNTIFS function while selecting the column of subcategories and filtering out the word *plays*, which separates it from musicals and other forms of theatre production. 
+  
+  
