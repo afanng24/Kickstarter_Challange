@@ -4,5 +4,6 @@
 ## Analysis and Challenges
 #Analysis
   Outcomes based on Launch date were provided through the filtering of theatre from the parent category into its own specific subcategory, then organized based on date and amount of success and failures. Running the collected data into a pivot table gives a clear and accurate representation of the projects that succeeded, failed, or canceled. !
+  
   [Anylysisscreenshot](https://user-images.githubusercontent.com/82983000/116432727-d3bc1e00-a816-11eb-96c6-fc7b6d5f9300.png)
 
